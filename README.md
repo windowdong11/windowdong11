@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi I'm DongGyu 👋
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=windowdong11)](https://solved.ac/windowdong11)
+___
+
+🌱 I’m currently learning Algorithms, front-end.  
+💬 Ask me about anything!  
+
+![Windowdong11's GitHub stats](https://github-readme-stats.vercel.app/api?username=windowdong11&show_icons=true&theme=tokyonight)
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=windowdong11)](https://solved.ac/windowdong11)
 
 <!--
 **windowdong11/windowdong11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
